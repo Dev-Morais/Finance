@@ -22,7 +22,7 @@ Projeto de sistema financeiro desenvolvido para atividade da faculdade.
 git clone https://github.com/Dev-Morais/Finance.git
 ```
 
-2. Abra o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse).
+2. Abra o projeto em uma IDE Visual studio(VS).
 
 3. Execute o projeto.
 
